@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\Project_C#\Calculator_v2\bin\Debug\Calculator_v2.exe.config
+\\Mac\Home\Desktop\Project_C#\Calculator_v2\bin\Debug\Calculator_v2.exe
+\\Mac\Home\Desktop\Project_C#\Calculator_v2\bin\Debug\Calculator_v2.pdb
+\\Mac\Home\Desktop\Project_C#\Calculator_v2\obj\Debug\Calculator_v2.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Project_C#\Calculator_v2\obj\Debug\Calculator_v2.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Project_C#\Calculator_v2\obj\Debug\Calculator_v2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Project_C#\Calculator_v2\obj\Debug\Calculator_v2.exe
+\\Mac\Home\Desktop\Project_C#\Calculator_v2\obj\Debug\Calculator_v2.pdb
