@@ -50,11 +50,21 @@ namespace Calculator_OOP
 
         public void Divide()
         {
+            if (num2 == 0)
+            {
+                Console.WriteLine("Ошибка, нельзя делить на ноль");
+                return;
+            }
             result = num1 / num2;
         }
 
         public void Koreni()
         {
+            if (num1 < 0)
+            {
+                Console.WriteLine("Ошибка, число не может быть отрецательным");
+                return;
+            }
             result = Math.Sqrt(num1);
         }
 
